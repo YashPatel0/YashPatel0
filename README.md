@@ -1,105 +1,105 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Hi+I'm+Yash+👋;Entry+Level+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Automating+Everything+🚀;Building+Cloud+Infrastructure+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2E8B57&center=true&vCenter=true&width=650&lines=Hi,+I'm+Yash+👋;DevOps+Engineer+%7C+Cloud+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+Scalable+Infrastructure;Automating+Deployments+with+Confidence" />
 </p>
 
-<h1 align="center">⚡ Yash | DevOps Engineer ⚡</h1>
+<h1 align="center">Yash | DevOps & Cloud Engineer</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00FF00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-DEVOPS%20ENGINEERING-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CLOUD-AWS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DevOps%20Engineering-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 whoami
+## 👨‍💻 About Me
 
-```bash
-> name: Yash
-> role: Entry-Level DevOps Engineer
-> location: India
-> passion: Automating Infrastructure & Deployments
-> current_focus: Kubernetes + EKS + CI/CD
-```
+I am an **Entry-Level DevOps Engineer** passionate about designing scalable cloud infrastructure and automating application deployments.
+
+I focus on:
+
+- Infrastructure as Code using Terraform  
+- Containerization with Docker  
+- Kubernetes-based deployments (EKS)  
+- CI/CD pipeline automation  
+- Linux server administration  
+
+My goal is to build reliable, production-ready systems using modern DevOps practices.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠 Technical Skills
+
+### Cloud & Infrastructure
+- AWS (EC2, VPC, RDS, EKS, S3)
+- Terraform (modular architecture)
+
+### Containers & Orchestration
+- Docker (multi-stage builds, optimization)
+- Kubernetes (Deployments, Services, Ingress)
+
+### CI/CD & Version Control
+- Git & GitHub
+- GitHub Actions (basic CI/CD pipelines)
+
+### Operating Systems & Scripting
+- Linux Administration
+- Bash scripting
+
+---
+
+## 🚀 DevOps Projects
+
+### Kubernetes Deployment Project
+- Dockerized full-stack application
+- Created Kubernetes manifests
+- Configured Services and Ingress
+- Designed production-ready deployment structure
+
+### AWS Infrastructure Automation
+- Built modular Terraform architecture
+- Multi-AZ VPC with private/public subnets
+- NAT Gateway configuration
+- EKS cluster provisioning
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,git,github,bash" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashPatel0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPatel0&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+---
+
+## 📈 Current Learning Focus
+
+- Advanced Kubernetes (Helm, HPA, Ingress Controllers)
+- Production-grade AWS EKS architecture
+- CI/CD best practices
+- Monitoring & Observability (Prometheus, Grafana)
+- DevOps architecture patterns
 
 ---
 
-## 🚀 What I Actually Do
+## 🧠 DevOps Principles I Follow
 
-🟢 Build AWS infrastructure using Terraform (VPC, EC2, RDS, EKS, S3)
-🟢 Dockerize full-stack applications
-🟢 Deploy containerized apps on Kubernetes
-🟢 Create modular Terraform projects
-🟢 Manage Linux servers
-🟢 Implement Git branching strategies
-🟢 Push images to Docker Hub
-🟢 Design beginner-friendly CI/CD pipelines
-
----
-
-## 📂 DevOps Projects
-
-### 🔥 Kubernetes Deployment Project
-
-* Dockerized application
-* Created K8s manifests
-* Configured services & ingress
-* Production-ready deployment structure
-
-### 🔥 AWS Infrastructure Automation
-
-* Modular Terraform architecture
-* Multi-AZ VPC setup
-* NAT Gateway & Private Subnets
-* EKS Cluster provisioning
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark" />
-</p>
-
----
-
-## 📈 Current Learning Roadmap
-
-* 🔥 Advanced Kubernetes
-* 🔥 AWS EKS Production Setup
-* 🔥 CI/CD with GitHub Actions
-* 🔥 Monitoring (Prometheus + Grafana)
-* 🔥 DevOps Best Practices
-
----
-
-## 🧠 DevOps Mindset
-
-> Automate repetitive tasks
-> Build scalable systems
-> Monitor everything
-> Keep infrastructure as code
-> Always improve deployment reliability
+- Automate repetitive processes
+- Maintain infrastructure as code
+- Design scalable and fault-tolerant systems
+- Monitor applications and infrastructure
+- Continuously improve deployment reliability
 
 ---
 
 ## 🤝 Connect With Me
 
-LinkedIn: Add Your Link
-Email: Add Your Email
+- LinkedIn: linkedin.com/in/yash-patel-b58626226
+- Email: yashpatel22150@gmail.com
 
 ---
 
 <p align="center">
-⚡ “Automate. Deploy. Scale. Repeat.” ⚡
+  <strong>Building Infrastructure. Automating Deployments. Improving Reliability.</strong>
 </p>
