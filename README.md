@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yash-patel-b58626226)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashpatel22150@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-YashPatel0-181717?style=flat-square&logo=github)](https://github.com/YashPatel0)
-![Visitors](https://komarev.com/ghpvc/?username=YashPatel0&style=flat-square&color=238636&label=visitors)
 
 </div>
 
