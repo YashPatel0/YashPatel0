@@ -1,35 +1,31 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c10,50:39d353,100:080c10&height=180&section=header&text=Yash%20Patel&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=60&descColor=7d8590&animation=fadeIn" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=160&section=header&text=Hey,%20I'm%20Yash%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-patel-b58626226)
-[![Email](https://img.shields.io/badge/Email-yashpatel22150%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpatel22150@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YashPatel0-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashPatel0)
+### DevOps Engineer · Cloud · Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yash-patel-b58626226)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashpatel22150@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-YashPatel0-181717?style=flat-square&logo=github)](https://github.com/YashPatel0)
+![Visitors](https://komarev.com/ghpvc/?username=YashPatel0&style=flat-square&color=238636&label=visitors)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 🙋 About Me
 
-```yaml
-name     : Yash Patel
-role     : DevOps & Cloud Engineer
-status   : Actively Building & Learning
-location : India 🇮🇳
-focus:
-  - Scalable cloud infrastructure on AWS
-  - Containerisation with Docker & Kubernetes
-  - Infrastructure as Code with Terraform
-  - CI/CD pipeline automation
-  - Linux server administration & Bash scripting
-```
+I'm an entry-level **DevOps & Cloud Engineer** focused on building scalable infrastructure and automating deployments using modern DevOps tools.
+
+- 🔧 &nbsp; Building with **Docker, Kubernetes & Terraform**
+- ☁️ &nbsp; Deploying on **AWS** — EC2, VPC, S3, IAM, RDS, EKS
+- 🔁 &nbsp; Automating with **GitHub Actions CI/CD**
+- 🐧 &nbsp; Daily driver: **Linux + Bash**
+- 📖 &nbsp; Currently learning: **Helm, Prometheus, Grafana, ArgoCD**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -38,86 +34,56 @@ focus:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 ![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-<details>
-<summary><b>⚓ Kubernetes Full-Stack Deployment</b></summary>
-<br>
-
-```
-NAMESPACE     RESOURCE              STATUS
-─────────────────────────────────────────────────
-production    web-deployment        ✅ Running
-production    api-service           ✅ Running
-production    nginx-ingress         ✅ Active
-```
-
-- 🐳 Multi-stage Docker builds for optimized image size
-- 📦 Kubernetes manifests — Deployments, Services, Ingress, ConfigMaps
-- 🌐 NGINX Ingress Controller for external traffic routing
-- 🏗️ Production-ready directory structure and env separation
-
-**Stack:** `Docker` `Kubernetes` `NGINX Ingress` `AWS EKS`
-
-</details>
-
-<details>
-<summary><b>🏗️ AWS Infrastructure with Terraform</b></summary>
-<br>
-
-```
-module "vpc"          → Multi-AZ VPC (public + private subnets)
-module "nat_gateway"  → Outbound internet for private resources
-module "eks"          → Managed Kubernetes cluster on AWS
-module "rds"          → Highly available database layer
-```
-
-- 🧩 Modular Terraform architecture (reusable, DRY code)
-- 🌍 Multi-AZ VPC — isolated public/private subnet design
-- 🔒 NAT Gateway for secure outbound-only private subnet access
-- ⚓ EKS cluster + node group provisioning
-
-**Stack:** `Terraform` `AWS VPC` `EKS` `RDS` `NAT Gateway` `IAM`
-
-</details>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| ⚓ **K8s Deployment** | Dockerized full-stack app on Kubernetes with Services & Ingress | Docker · K8s · EKS |
+| 🏗️ **AWS Infra (Terraform)** | Modular multi-AZ VPC, NAT Gateway, EKS cluster via IaC | Terraform · AWS · EKS |
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashPatel0&show_icons=true&theme=github_dark&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPatel0&layout=compact&theme=github_dark&hide_border=true&title_color=39d353&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YashPatel0&show_icons=true&theme=github_dark&hide_border=true&title_color=3fb950&icon_color=3fb950&bg_color=0d1117" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPatel0&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950&bg_color=0d1117" height="160"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YashPatel0&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=7d8590&dates=7d8590&background=0d1117" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=YashPatel0&theme=github-dark-blue&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&background=0d1117" width="60%"/>
 
 </div>
 
 ---
 
-## 🟩 Contribution Activity
+### 🟩 Contribution Graph
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/39d353/YashPatel0" width="100%" alt="GitHub Contribution Chart"/>
+<img src="https://ghchart.rshah.org/3fb950/YashPatel0" width="100%"/>
+
+</div>
+
+---
+
+### 📈 Activity Summary
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashPatel0&theme=github_dark" width="100%"/>
 
@@ -125,29 +91,10 @@ module "rds"          → Highly available database layer
 
 ---
 
-## 📈 Currently Learning
-
-```log
-● Advanced Kubernetes — Helm, HPA, Ingress Controllers
-● Prometheus & Grafana — Observability stack
-● Production-grade EKS architecture
-● GitOps with ArgoCD
-● Advanced CI/CD pipeline patterns
-● AWS Networking deep dive
-```
-
----
-
-## 🧠 DevOps Principles
-
-| | |
-|---|---|
-| 🤖 **Automate** repetitive tasks | 📜 **Infrastructure as Code**, always |
-| 📈 Design for **scale & fault tolerance** | 👁️ **Monitor** apps & infra proactively |
-| 🔐 **Security** built-in, not bolted-on | 🔄 **Continuously improve** reliability |
-
----
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c10,50:39d353,100:080c10&height=100&section=footer&text=Building%20Infrastructure.%20Automating%20Deployments.%20Improving%20Reliability.&fontSize=13&fontColor=7d8590&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+*Automate everything. Version control everything. Monitor everything.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer" width="100%"/>
+
 </div>
