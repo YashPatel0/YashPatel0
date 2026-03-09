@@ -61,9 +61,6 @@ I'm an entry-level **DevOps & Cloud Engineer** focused on building scalable infr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashPatel0&show_icons=true&theme=github_dark&hide_border=true&title_color=3fb950&icon_color=3fb950&bg_color=0d1117" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPatel0&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950&bg_color=0d1117" height="160"/>
-
 <img src="https://streak-stats.demolab.com?user=YashPatel0&theme=github-dark-blue&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&background=0d1117" width="60%"/>
 
 </div>
